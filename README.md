@@ -85,7 +85,7 @@ Currently serving as:
 ├── public/             # Static assets
 └── styles/             # Global styles
 ```
-
+![alt text](screenshot.png)
 ## 🎨 Components
 
 The project includes several key components:
