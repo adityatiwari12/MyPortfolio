@@ -2,6 +2,22 @@
 
 A modern, responsive portfolio website built with Next.js 15, TypeScript, and Tailwind CSS. This portfolio showcases my professional experience, projects, and skills in a clean and interactive interface.
 
+🌐 **Live Website**: [adityatiwariportfolio.vercel.app](https://adityatiwariportfolio.vercel.app/)
+
+## 👨‍💻 About Me
+
+I'm Aditya Tiwari, a second-year B.Tech student in CSIT at Acropolis Institute of Technology and Research (2023-2027). Passionate about innovation, sustainability, and leadership, I focus on:
+
+- AI and Machine Learning
+- Web Development
+- Sustainable Technology Solutions
+- Technical Leadership
+
+Currently serving as:
+- Vice Chair at IEEE Student Branch, AITR
+- Campus Ambassador at GeeksforGeeks
+- International Service Director at Rotaract Club of Acropolis Royals
+
 ## 🚀 Features
 
 - **Modern Tech Stack**: Built with Next.js 15, TypeScript, and Tailwind CSS
@@ -10,6 +26,15 @@ A modern, responsive portfolio website built with Next.js 15, TypeScript, and Ta
 - **Component Library**: Utilizes shadcn/ui components for a consistent and beautiful UI
 - **Animations**: Smooth animations and transitions using Framer Motion
 - **Type-Safe**: Full TypeScript support for better development experience
+
+## 💼 Key Sections
+
+- **About**: Comprehensive background and professional journey
+- **Skills**: Technical expertise in various domains
+- **Experience**: Professional roles and responsibilities
+- **Research**: Published academic works and findings
+- **Projects**: Showcase of technical projects
+- **Contact**: Professional contact information
 
 ## 🛠️ Tech Stack
 
@@ -68,10 +93,14 @@ The project includes several key components:
 - **Hero**: Landing section with introduction
 - **About**: Detailed information about me
 - **Experience**: Work history and professional experience
-- **Projects**: Showcase of personal and professional projects
+- **Projects**: Showcase of personal and professional projects including:
+  - Anveshan AI: AI-powered Lost & Found Human Identification System
+  - Medicine Recommendation System: Smart Healthcare Tool with NLP and ML
 - **Contact**: Contact form and information
 - **Tech Stack**: Technologies and skills
-- **Testimonials**: Client and colleague testimonials
+- **Research**: Published research works including:
+  - Integrating Renewable Energy into ASIC-based Crypto Mining
+  - K-dimensional Trees for Efficient Face Detection
 
 ## 🔧 Development
 
@@ -92,12 +121,18 @@ The project includes several key components:
 
 ## 🚀 Deployment
 
-This project can be deployed on any platform that supports Next.js applications, such as:
+This project is deployed on Vercel. You can visit the live site at [adityatiwariportfolio.vercel.app](https://adityatiwariportfolio.vercel.app/)
 
-- Vercel (Recommended)
+The project can also be deployed on other platforms that support Next.js applications, such as:
 - Netlify
 - AWS Amplify
 - Digital Ocean
+
+## 📫 Contact
+
+- **Email**: adityatiwari8@ieee.org
+- **Phone**: +91 7648935563
+- **Location**: Indore, India
 
 ## 📝 License
 
@@ -107,7 +142,8 @@ This project is open source and available under the MIT License.
 
 **Aditya Tiwari**
 - GitHub: [@adityatiwari12](https://github.com/adityatiwari12)
+- Portfolio: [adityatiwariportfolio.vercel.app](https://adityatiwariportfolio.vercel.app/)
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! 
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page or contact me directly. 
